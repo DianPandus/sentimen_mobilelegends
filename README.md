@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Analisis Sentimen Ulasan Mobile Legends di Google Play Store
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
@@ -156,3 +157,6 @@ Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE.txt` untuk informasi lebih 
 Nama Anda - [@handle_twitter_anda](https://twitter.com/handle_twitter_anda) - email@contoh.com
 
 Link Proyek: [https://github.com/nama-pengguna-anda/nama-repo-anda](https://github.com/nama-pengguna-anda/nama-repo-anda)
+=======
+# sentimen_mobilelegends
+>>>>>>> 1fcd8d84909a82609bc744b1b52591f5217d0870
